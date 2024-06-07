@@ -1,6 +1,6 @@
-# PrepHelp
+# PrepSupport
 
-PrepHelp is an interview experience platform designed for Thadomal Shahani Engineering College students, specifically tailored to aid students preparing for on-campus placement drives. It provides access to past interview questions, test questions, and interview experiences shared by fellow students. Additionally, an admin panel is available for faculty to manage responses, toggle the display of user interview experiences, and sort experiences by companies and posting dates.
+PrepSupport is an interview experience platform designed for Thadomal Shahani Engineering College students, specifically tailored to aid students preparing for on-campus placement drives. It provides access to past interview questions, test questions, and interview experiences shared by fellow students. Additionally, an admin panel is available for faculty to manage responses, toggle the display of user interview experiences, and sort experiences by companies and posting dates.
 
 ## Features
 
