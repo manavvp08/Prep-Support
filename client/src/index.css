@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Playfair+Display&family=Roboto:wght@300&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hover_change {
+  animation: colorchange 10s infinite;
+}
+body {
+  scroll-behavior: smooth;
+}
+
+@keyframes colorchange {
+  0% {
+    background-color: #ffa500; /* Orange */
+  }
+  25% {
+    background-color: #ffebcc; /* Light Peach */
+  }
+  50% {
+    background-color: #ffffff; /* White */
+  }
+  75% {
+    background-color: #ffebcc; /* Light Peach */
+  }
+  100% {
+    background-color: #ffa500; /* Orange */
+  }
+}
+
+.Font-heading {
+  font-family: "Roboto", sans-serif;
+}
+@keyframes Textchange {
+  0% {
+    color: #495057;
+  }
+  25% {
+    color: #212529;
+  }
+  50% {
+    color: #adb5bd;
+  }
+  75% {
+    color: #343a40;
+  }
+  100% {
+    color: #495057;
+  }
+}
+.Text-change {
+  animation: Textchange 15s infinite;
+}
