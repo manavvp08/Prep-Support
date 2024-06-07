@@ -8,7 +8,7 @@ PrepSupport is an interview experience platform designed for Thadomal Shahani En
 - **Test Questions Bank**: View and practice test questions for better preparation.
 - **Admin Panel**: Allows admin/faculty to manage responses, toggle user interview experience visibility, and sort experiences by companies and posting dates.
 - **Secure Authentication**: Implements OTP validation for secure user authentication.
-- **Chitkara University HP Campus Exclusive**: Accessible only toThadomal Shahani Engineering College students .
+- **Chitkara University HP Campus Exclusive**: Accessible only to Thadomal Shahani Engineering College students .
 - **Profile Editing**: Students can edit their profiles as needed.
 
 ## Tech Stack
