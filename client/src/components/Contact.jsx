@@ -152,7 +152,7 @@ const Contact = ({ isAuth, isAdmin }) => {
                 marginHeight="0"
                 marginWidth="0"
                 scrolling="no"
-                src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=CHITKARA+UNIVERSITY,+BADDI&ie=UTF8&t=&z=14&iwloc=B&output=embed"
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15083.933850650454!2d72.8358602!3d19.0644647!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c91130392c07%3A0x3c47bf391c8de931!2sThadomal%20Shahani%20Engineering%20College!5e0!3m2!1sen!2sin!4v1717763307559!5m2!1sen!2sin"
               ></iframe>
               <div className="bg-white relative flex flex-wrap py-6 rounded shadow-md">
                 <div className="lg:w-1/2 px-6">
@@ -160,8 +160,9 @@ const Contact = ({ isAuth, isAdmin }) => {
                     ADDRESS
                   </h2>
                   <p className="mt-1">
-                    Atal Shiksha Kunj, Pinjore-Nalagarh National Highway
-                    (NH-21A), kalujhinda, Distt, Baddi, Himachal Pradesh 174103
+                  W, P. G. Kher Marg, 32nd Road, Marg, Off Linking Rd, TPS III, 
+                  Bandra West, Mumbai, Maharashtra 400050
+                  
                   </p>
                 </div>
               </div>
